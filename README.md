@@ -1,2 +1,2 @@
 # health-care-analysis
-A detailed and brief analysis of contemporary heath issues
+A detailed and brief analysis of heart disease risks
